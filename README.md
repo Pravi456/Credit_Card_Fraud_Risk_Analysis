@@ -44,7 +44,7 @@ To explore and analyze historical credit card transaction data in order to:
 
 - **Interactive Filters**: Filter data by fraud type, state, or merchant name.
 - **Fraud Risk Ring Chart**: Visualize the distribution of fraud severity.
-- **Heatmaps & Bar Charts**: Identify transaction volumes across fraud types and categories.
+- **Bar Charts**: Identify transaction volumes across fraud types and categories.
 - **Trend Analysis**: Monthly breakdown of fraud trends for anomaly detection.
 
 ---
