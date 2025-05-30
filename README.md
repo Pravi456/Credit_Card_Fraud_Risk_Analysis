@@ -4,7 +4,7 @@
 
 This project is a **Power BI dashboard** designed to analyze and visualize patterns in **credit card fraud** transactions. It helps stakeholders identify high-risk areas, understand fraud trends, and make data-driven decisions to combat fraudulent activity.
 
-![Dashboard Screenshot](./Credit-card-fraud-Detection-Screenshot.png)
+![Screenshot](./Credit-card-fraud-Detection-Screenshot.png)
 
 ---
 
