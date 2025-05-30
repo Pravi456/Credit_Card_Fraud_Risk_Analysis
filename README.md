@@ -77,6 +77,7 @@ To explore and analyze historical credit card transaction data in order to:
 
 **Sainadh**  
 Feel free to connect for collaborations or questions.
+Mail : pasupuleti.sainadh.6@gmail.com
 
 ---
 
